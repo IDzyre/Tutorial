@@ -10,7 +10,7 @@
     "grade_inquiries": true,
     "vcs": {
         "repository_type": "submitty-hosted",
-        "subdirectory": "src"
+        "vcs_subdirectory": "src"
     },
     "dates": {
         "ta_view_start_date": "1970-01-01 23:59:59",
