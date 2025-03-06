@@ -1,7 +1,7 @@
 {
-    "title": "Working Homework",
+    "title": "VCS Homework 2",
     "type": "Electronic File",
-    "id": "open_homework12",
+    "id": "vcs_homework_2",
     "instructions_url": "",
     "syllabus_bucket": "homework",
     "autograding_config_path": "\/usr\/local\/submitty\/more_autograding_examples\/python_simple_homework\/config",
